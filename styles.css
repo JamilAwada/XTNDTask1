@@ -16,8 +16,12 @@ h2 {
     margin-left: 10em;
 }
 
+.clear-btn {
+    margin-left: 1em;
+    margin-top: 0.3em;
+}
+
 .clear-btn:hover {
-    padding-top: 20em;
     text-decoration: underline;
     cursor: pointer;
 }
