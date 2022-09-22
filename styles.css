@@ -15,3 +15,9 @@ h2 {
 .input-field {
     margin-left: 10em;
 }
+
+.clear-btn:hover {
+    padding-top: 20em;
+    text-decoration: underline;
+    cursor: pointer;
+}
